@@ -1,0 +1,1 @@
+git log --author="84702" --pretty=tformat: --numstat >> lineCount.txt

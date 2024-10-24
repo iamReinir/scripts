@@ -1,0 +1,30 @@
+
+This is the list of scripts currently in D:\alias
+This list is hand-mantained, so errors could happen. Use this list at your own risk.
+
+===================================================================================
+
+alias_help		: 		Type this list to the current terminal
+
+
+backlog 		: 		Todo list
+
+
+cdnotes			: 		Change current directory to D:\#Reinir\Doc\notes
+
+
+desktop			: 		Change current directory to Desktop
+
+
+notes			: 		Open the "notes" folder using the default markdown viewer 
+						(currently is mdview)
+
+np			: 		Open notepad++. Can take filenames/foldernames as arguments 
+						OpenFoldersAsWorkspace is used.
+
+server			: 	Open a webserver to download file in the current directory.
+
+
+scriptsedit		:		Open "D:\alias" in notepad++ for editing						
+						
+===================================================================================
